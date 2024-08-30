@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kashish7100
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on App Development
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me kashishshrimali71@gmail.com
 
 <!---
